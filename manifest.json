@@ -1,0 +1,19 @@
+{
+    "name": "Adopt me",
+    "start_url":"index.html",
+    "background_color":"#212529",
+    "theme_color": "#3e8989",
+    "display": "standalone",
+    "icons":[
+        {
+        "src":"img/icon128.png",
+        "sizes":"128x128",
+        "types":"image/png"
+    },
+    {
+        "src":"img/icon512.png",
+        "sizes":"512x512",
+        "types":"image/png"
+    }
+]
+}
